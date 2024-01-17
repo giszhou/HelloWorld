@@ -6,5 +6,6 @@ class Program
     {
         Console.WriteLine("Hello, World!!");
         Console.WriteLine("Welcome to .NET 8.0 World!");
+        Console.WriteLine("Enjoy C# 13 World!");
     }
 }
